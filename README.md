@@ -1,4 +1,4 @@
-# AtliQ Hardwares – Finance & Supply Chain Analytics
+# AtliQ Hardwares – Consumer_Goods_Analytics
 
 ##  Project Overview
 
